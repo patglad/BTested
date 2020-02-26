@@ -1,0 +1,105 @@
+D:\Jasiu\Dokumenty\studia\semestr 5\podstawyorganizacjisystemowkomputerowych\test\bin\Debug\test.exe.config
+D:\Jasiu\Dokumenty\studia\semestr 5\podstawyorganizacjisystemowkomputerowych\test\bin\Debug\test.exe
+D:\Jasiu\Dokumenty\studia\semestr 5\podstawyorganizacjisystemowkomputerowych\test\bin\Debug\test.pdb
+D:\Jasiu\Dokumenty\studia\semestr 5\podstawyorganizacjisystemowkomputerowych\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Jasiu\Dokumenty\studia\semestr 5\podstawyorganizacjisystemowkomputerowych\test\obj\Debug\test.Form1.resources
+D:\Jasiu\Dokumenty\studia\semestr 5\podstawyorganizacjisystemowkomputerowych\test\obj\Debug\test.Properties.Resources.resources
+D:\Jasiu\Dokumenty\studia\semestr 5\podstawyorganizacjisystemowkomputerowych\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Jasiu\Dokumenty\studia\semestr 5\podstawyorganizacjisystemowkomputerowych\test\obj\Debug\test.exe
+D:\Jasiu\Dokumenty\studia\semestr 5\podstawyorganizacjisystemowkomputerowych\test\obj\Debug\test.pdb
+D:\Jasiu\Dokumenty\studia\semestr 5\podstawyorganizacjisystemowkomputerowych\projekt2-test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Jasiu\Dokumenty\studia\semestr 5\podstawyorganizacjisystemowkomputerowych\projekt2-test\obj\Debug\test.Form1.resources
+D:\Jasiu\Dokumenty\studia\semestr 5\podstawyorganizacjisystemowkomputerowych\projekt2-test\obj\Debug\test.Properties.Resources.resources
+D:\Jasiu\Dokumenty\studia\semestr 5\podstawyorganizacjisystemowkomputerowych\projekt2-test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Jasiu\Dokumenty\studia\semestr 5\podstawyorganizacjisystemowkomputerowych\projekt2-test\obj\Debug\test.exe
+D:\Jasiu\Dokumenty\studia\semestr 5\podstawyorganizacjisystemowkomputerowych\projekt2-test\obj\Debug\test.pdb
+D:\Jasiu\Dokumenty\studia\semestr 5\podstawyorganizacjisystemowkomputerowych\projekt2-test\bin\Debug\test.exe.config
+D:\Jasiu\Dokumenty\studia\semestr 5\podstawyorganizacjisystemowkomputerowych\projekt2-test\bin\Debug\test.exe
+D:\Jasiu\Dokumenty\studia\semestr 5\podstawyorganizacjisystemowkomputerowych\projekt2-test\bin\Debug\test.pdb
+D:\Jasiu\Dokumenty\studia\semestr 5\podstawyorganizacjisystemowkomputerowych\projekt2-test\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\Jasiu\Dokumenty\studia\semestr 5\podstawyorganizacjisystemowkomputerowych\projekt2-test\obj\Debug\test.csproj.CopyComplete
+D:\Jasiu\Dokumenty\studia\semestr 5\podstawyorganizacjisystemowkomputerowych\projekt2-test\obj\Debug\test.Fakustyka.resources
+D:\Jasiu\Dokumenty\studia\semestr 5\podstawyorganizacjisystemowkomputerowych\projekt2-test\obj\Debug\test.Foptyka.resources
+D:\Jasiu\Dokumenty\studia\semestr 5\podstawyorganizacjisystemowkomputerowych\projekt2-test\obj\Debug\test.Fwzrruch.resources
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\projekt2-test\projekt2-test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\projekt2-test\projekt2-test\obj\Debug\test.exe
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\projekt2-test\projekt2-test\obj\Debug\test.pdb
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\projekt2-test\projekt2-test\obj\Debug\test.Form1.resources
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\projekt2-test\projekt2-test\obj\Debug\test.Fakustyka.resources
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\projekt2-test\projekt2-test\obj\Debug\test.Foptyka.resources
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\projekt2-test\projekt2-test\obj\Debug\test.Fwzrruch.resources
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\projekt2-test\projekt2-test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\projekt2-test\projekt2-test\bin\Debug\test.exe.config
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\projekt2-test\projekt2-test\bin\Debug\test.exe
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\projekt2-test\projekt2-test\bin\Debug\test.pdb
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\projekt2-test\projekt2-test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\projekt2-test\projekt2-test\obj\Debug\test.csproj.CopyComplete
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\projekt2-test\projekt2-test\obj\Debug\test.Form2.resources
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\projekt2-test\projekt2-test\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\Jasiu\Pobrane\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Jasiu\Pobrane\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.exe
+D:\Jasiu\Pobrane\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.pdb
+D:\Jasiu\Pobrane\projekt2-test-ok\projekt2-test\projekt2-test\bin\Debug\test.exe.config
+D:\Jasiu\Pobrane\projekt2-test-ok\projekt2-test\projekt2-test\bin\Debug\test.exe
+D:\Jasiu\Pobrane\projekt2-test-ok\projekt2-test\projekt2-test\bin\Debug\test.pdb
+D:\Jasiu\Pobrane\projekt2-test-ok\projekt2-test\projekt2-test\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\Jasiu\Pobrane\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.Form1.resources
+D:\Jasiu\Pobrane\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.Fakustyka.resources
+D:\Jasiu\Pobrane\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.Foptyka.resources
+D:\Jasiu\Pobrane\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.Form2.resources
+D:\Jasiu\Pobrane\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.Fwzrruch.resources
+D:\Jasiu\Pobrane\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.Properties.Resources.resources
+D:\Jasiu\Pobrane\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Jasiu\Pobrane\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.csproj.CopyComplete
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.exe
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.pdb
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\bin\Debug\test.exe.config
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\bin\Debug\test.exe
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\bin\Debug\test.pdb
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.Form1.resources
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.Fakustyka.resources
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.Foptyka.resources
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.Fwzrruch.resources
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.csproj.CopyComplete
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\LABORATORIUM\ZADANIE5\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\bin\Debug\test.exe.config
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\LABORATORIUM\ZADANIE5\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\bin\Debug\test.exe
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\LABORATORIUM\ZADANIE5\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\bin\Debug\test.pdb
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\LABORATORIUM\ZADANIE5\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\LABORATORIUM\ZADANIE5\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.Form1.resources
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\LABORATORIUM\ZADANIE5\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.Fakustyka.resources
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\LABORATORIUM\ZADANIE5\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.Foptyka.resources
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\LABORATORIUM\ZADANIE5\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.Fwzrruch.resources
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\LABORATORIUM\ZADANIE5\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\LABORATORIUM\ZADANIE5\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\LABORATORIUM\ZADANIE5\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.csproj.CopyComplete
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\LABORATORIUM\ZADANIE5\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.exe
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\LABORATORIUM\ZADANIE5\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.pdb
+C:\Users\Patrycja\Desktop\STUDIA\SEMESTR V\POSK\LABORATORIUM\ZADANIE5\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Patrycja\Documents\PROJEKTY\animals\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Patrycja\Documents\PROJEKTY\animals\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.Form1.resources
+C:\Users\Patrycja\Documents\PROJEKTY\animals\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.Fakustyka.resources
+C:\Users\Patrycja\Documents\PROJEKTY\animals\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.Properties.Resources.resources
+C:\Users\Patrycja\Documents\PROJEKTY\animals\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Patrycja\Documents\PROJEKTY\animals\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Patrycja\Documents\PROJEKTY\animals\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.exe
+C:\Users\Patrycja\Documents\PROJEKTY\animals\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.pdb
+C:\Users\Patrycja\Documents\PROJEKTY\animals\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\bin\Debug\test.exe.config
+C:\Users\Patrycja\Documents\PROJEKTY\animals\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\bin\Debug\test.exe
+C:\Users\Patrycja\Documents\PROJEKTY\animals\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\bin\Debug\test.pdb
+C:\Users\Patrycja\Documents\PROJEKTY\animals\24.11\projekt2-test-ok\projekt2-test-ok\projekt2-test\projekt2-test\obj\Debug\test.csproj.CopyComplete
+C:\Users\Patrycja\Documents\PROJEKTY\Test na bodzce akustyczne\projekt\bin\Debug\test.exe.config
+C:\Users\Patrycja\Documents\PROJEKTY\Test na bodzce akustyczne\projekt\bin\Debug\test.exe
+C:\Users\Patrycja\Documents\PROJEKTY\Test na bodzce akustyczne\projekt\bin\Debug\test.pdb
+C:\Users\Patrycja\Documents\PROJEKTY\Test na bodzce akustyczne\projekt\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Patrycja\Documents\PROJEKTY\Test na bodzce akustyczne\projekt\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Patrycja\Documents\PROJEKTY\Test na bodzce akustyczne\projekt\obj\Debug\test.Form1.resources
+C:\Users\Patrycja\Documents\PROJEKTY\Test na bodzce akustyczne\projekt\obj\Debug\test.Fakustyka.resources
+C:\Users\Patrycja\Documents\PROJEKTY\Test na bodzce akustyczne\projekt\obj\Debug\test.Properties.Resources.resources
+C:\Users\Patrycja\Documents\PROJEKTY\Test na bodzce akustyczne\projekt\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\Patrycja\Documents\PROJEKTY\Test na bodzce akustyczne\projekt\obj\Debug\test.csproj.CopyComplete
+C:\Users\Patrycja\Documents\PROJEKTY\Test na bodzce akustyczne\projekt\obj\Debug\test.exe
+C:\Users\Patrycja\Documents\PROJEKTY\Test na bodzce akustyczne\projekt\obj\Debug\test.pdb
