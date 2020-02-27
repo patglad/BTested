@@ -1,3 +1,3 @@
 # BTested
 Aplikacja - grafika, dźwięk w C#
-![](BTested/akustyczne.PNG)
+![](projekt/akustyczne.PNG)
